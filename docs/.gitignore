@@ -1,6 +1,0 @@
-
-# ignore everything in the html directory
-html/***
-
-# ignore apidoc generated rst files
-sphinx.conf/LDMX*
